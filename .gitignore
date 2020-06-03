@@ -15,7 +15,7 @@ Image_Store/
 
 # virtual Environments
 D_BWedding1/wedding_project.env/
-D_BWedding2/django1.env/
+#D_BWedding2/django1.env/
 D_BWedding3/django.env/
 D_BWedding4/django1_env/
 
