@@ -7,11 +7,17 @@
 # Precompiled Headers
 
 # Libraries
-HTML_Templates/
+D_BWedding1/HTML_Templates/
+D_BWedding2/HTML_Templates/
+D_BWedding3/HTML_Templates/
+D_BWedding4/html_template/
 Image_Store/
 
 # virtual Environments
-wedding_project.env/
+D_BWedding1/wedding_project.env/
+D_BWedding2/django1.env/
+D_BWedding3/django.env/
+D_BWedding4/django1_env/
 
 # Shared objects (inc. Windows DLLs)
 
