@@ -13,6 +13,7 @@ Original_Images/
 
 # virtual Environments
 django.env/
+django1.env/
 
 # Shared objects (inc. Windows DLLs)
 
