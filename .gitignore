@@ -15,6 +15,10 @@ Original_Images/
 django.env/
 django1.env/
 
+# Cache Files
+ProjectMain/__pycache__/
+homepage/__pycache__/
+
 # Shared objects (inc. Windows DLLs)
 
 # Executables
