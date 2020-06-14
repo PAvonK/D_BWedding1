@@ -1,0 +1,40 @@
+# Prerequisites
+
+# Object files
+
+# Linker output
+
+# Precompiled Headers
+
+# Libraries
+HTML_Templates/
+Image_Store/
+Original_Images/
+
+# virtual Environments
+django.env/
+django1.env/
+
+# Cache Files
+ProjectMain/ProjectMain/__pycache__/
+ProjectMain/homepage/__pycache__/
+ProjectMain/__pycache__/
+homepage/__pycache__/
+
+# Shared objects (inc. Windows DLLs)
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+
+# Kernel Module Compile Results
+
+# custom
+
+# special md files
